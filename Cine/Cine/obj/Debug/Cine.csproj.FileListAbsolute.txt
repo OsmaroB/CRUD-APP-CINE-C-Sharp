@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\escritorio\programacion\proyectos\escritorio\examenPeliculas\Cine\Cine\bin\Debug\Cine.exe.config
+C:\Users\Admin\Desktop\escritorio\programacion\proyectos\escritorio\examenPeliculas\Cine\Cine\bin\Debug\Cine.exe
+C:\Users\Admin\Desktop\escritorio\programacion\proyectos\escritorio\examenPeliculas\Cine\Cine\bin\Debug\Cine.pdb
+C:\Users\Admin\Desktop\escritorio\programacion\proyectos\escritorio\examenPeliculas\Cine\Cine\obj\Debug\Cine.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\escritorio\programacion\proyectos\escritorio\examenPeliculas\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\Admin\Desktop\escritorio\programacion\proyectos\escritorio\examenPeliculas\Cine\Cine\obj\Debug\Cine.views.frDelete.resources
+C:\Users\Admin\Desktop\escritorio\programacion\proyectos\escritorio\examenPeliculas\Cine\Cine\obj\Debug\Cine.views.frIndex.resources
+C:\Users\Admin\Desktop\escritorio\programacion\proyectos\escritorio\examenPeliculas\Cine\Cine\obj\Debug\Cine.views.frMantenimiento.resources
+C:\Users\Admin\Desktop\escritorio\programacion\proyectos\escritorio\examenPeliculas\Cine\Cine\obj\Debug\Cine.views.frMesseage.resources
+C:\Users\Admin\Desktop\escritorio\programacion\proyectos\escritorio\examenPeliculas\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\escritorio\programacion\proyectos\escritorio\examenPeliculas\Cine\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\escritorio\programacion\proyectos\escritorio\examenPeliculas\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\Admin\Desktop\escritorio\programacion\proyectos\escritorio\examenPeliculas\Cine\Cine\obj\Debug\Cine.pdb
+C:\Users\Admin\Desktop\escritorio\programacion\proyectos\escritorio\examenPeliculas\Cine\Cine\obj\Debug\Cine.views.frCreditos.resources
